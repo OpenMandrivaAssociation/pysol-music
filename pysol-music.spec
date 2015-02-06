@@ -1,6 +1,6 @@
 %define name pysol-music
 %define version 4.40
-%define release %mkrel 10
+%define release 11
 %define pysolver 4.81-3mdk
 
 Summary: Background music pack for PySol
